@@ -1,1 +1,3 @@
-
+selenium
+requests
+python-telegram-bot  # or any Telegram library you’re using
